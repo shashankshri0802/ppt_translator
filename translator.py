@@ -16,7 +16,7 @@ def new_f():
   ppt_file.save("translated_presentation.pptx")
   
 st.title("now we'll translate")
-checking = st.button("Run)
+checking = st.button("Run")
 
 if checking == True:
   new_f()
