@@ -1,6 +1,5 @@
 import pptx
 from googletrans import Translator
-import cv2
 import streamlit as st
 
 ppt_file = pptx.Presentation("presentation.pptx")
