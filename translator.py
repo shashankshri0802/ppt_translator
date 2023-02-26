@@ -1,5 +1,5 @@
 import pptx
-from googletrans import translator
+from googletrans import Translator
 import cv2
 import streamlit as st
 
